@@ -1,5 +1,5 @@
 {
-    "name": "ryaan-anthony/TrelloSDK",
+    "name": "ryaan-anthony/Trello",
     "type": "library",
     "description": "PHP-based Trello API Wrapper",
     "keywords": ["trello", "api"],
